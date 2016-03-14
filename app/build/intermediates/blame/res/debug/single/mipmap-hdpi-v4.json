@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Users\\Ruju\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\Ruju\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MYAPP4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\MYAPP4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\Ruju\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\Ruju\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\Ruju\\AndroidStudioProjects\\MYAPP4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Users\\Ruju\\AndroidStudioProjects\\MYAPP4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
